@@ -9,7 +9,6 @@ from sklearn.utils import shuffle
 from tensorflow.contrib.layers import flatten
 get_ipython().magic('matplotlib inline')
 
-# TODO: Fill this in based on where you saved the training and testing data
 
 training_file = '../data/train.p'
 validation_file = '../data/valid.p'
