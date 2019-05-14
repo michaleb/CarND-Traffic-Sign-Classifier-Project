@@ -1,6 +1,6 @@
 ## Traffic Sign Recognition
 
-The goals of this project are the following:
+The goals of this project were the following:
 
 * Load the data set 
 * Explore, summarize and visualize the data set
